@@ -33,5 +33,5 @@ a. AFL fuzzer failer related to the core.
 File explaination:
   1. test_log_*: file names start with test_log_ is files that used for testing
   2. http.c and http.h contains the HTTP methods in C
-  3. mutation.c contains the customized mutation methods
+  3. mutation.c contains the customized mutation methods (modity line 5334 in afl-fuzz.c as well)
   4. afl-fuzz.c is the file that mostly modified in original AFL
