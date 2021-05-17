@@ -1,0 +1,63 @@
+sat
+(model 
+  (define-fun $_POST_selectclass_0 () String
+    "\x01")
+  (define-fun $_POST_student_0 () String
+    "")
+  (define-fun $_POST_test_0 () String
+    "UEST")
+  (define-fun $page2_0 () Int
+    22)
+  (define-fun $temp_85_0 () Bool
+    true)
+  (define-fun $page_0 () String
+    "")
+  (define-fun $temp_64_0 () Bool
+    true)
+  (define-fun $temp_78_0 () Bool
+    true)
+  (define-fun $temp_78_3 () Bool
+    true)
+  (define-fun $temp_85_2 () Bool
+    true)
+  (define-fun $temp_79_2 () Bool
+    true)
+  (define-fun $temp_90_0 () String
+    "90")
+  (define-fun $temp_97_0 () String
+    "9898\x0198982298")
+  (define-fun $temp_99_enc_0 () String
+    "9898\x0198982298")
+  (define-fun $temp_100_enc_0 () String
+    "9898\x01989822")
+  (define-fun $temp_102_enc_0 () String
+    "9898\x019898")
+  (define-fun $temp_103_enc_0 () String
+    "9898\x0198")
+  (define-fun $temp_105_enc_0 () String
+    "9898\x0198")
+  (define-fun $temp_106_enc_0 () String
+    "9898\x01")
+  (define-fun $temp_110_enc_0 () String
+    "9898")
+  (define-fun $temp_111_enc_0 () String
+    "98")
+  (define-fun $_POST_page2_0 () Bool
+    false)
+  (define-fun $temp_78_2 () Bool
+    false)
+  (define-fun $temp_78_1 () Bool
+    true)
+  (define-fun $temp_85_1 () Bool
+    true)
+  (define-fun $temp_79_1 () Bool
+    true)
+  (define-fun $temp_56_0 () String
+    "56")
+  (define-fun $temp_60_0 () String
+    "60")
+  (define-fun $temp_71_0 () Bool
+    true)
+  (define-fun $temp_79_0 () Bool
+    true)
+)

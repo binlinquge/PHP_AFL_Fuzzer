@@ -1,0 +1,1 @@
+{"selectclass": ["\"\\x01\"", "String"], "test": ["UEST", "String"], "test2": ["22", "Integer"], "page2": ["true", "Bool"]}

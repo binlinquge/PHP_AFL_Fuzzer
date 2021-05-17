@@ -1,0 +1,15 @@
+Stop condition:[', $error == true', 97]
+Next to solve:[{'25': [", empty($check_customer['password_reset_key']", 84], '26': [", $check_customer['password_reset_key'] != $password_key", 84], '27': [", strtotime($check_customer['password_reset_date'] . ' +1 day'", 84]}, {'25': [", empty($check_customer['password_reset_key']", 84], '26': [", $check_customer['password_reset_key'] != $password_key", 84], '27': [", strtotime($check_customer['password_reset_date'] . ' +1 day'", 84]}, {}, {'19': [", !isset($_GET['account']", 61], '20': [", !isset($_GET['key']", 61]}, {'22': [', (strlen($email_address', 71], '23': [', tep_validate_email($email_address', 71]}, {'22': [', (strlen($email_address', 71], '23': [', tep_validate_email($email_address', 71]}]
+
+Stop condition:[", !tep_session_is_registered('customer_id'", 57]
+Next to solve:[{}]
+
+Stop condition:[", !strstr($PHP_SELF, 'account_history_info.php'", 55]
+Next to solve:[]
+
+Stop condition:[", !tep_session_is_registered('customer_id'", 59]
+Next to solve:[{}]
+
+Stop condition:[", !tep_session_is_registered('customer_id'", 59]
+Next to solve:[{}]
+

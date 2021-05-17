@@ -1,0 +1,24 @@
+{
+	"account":	["2", "String", "_GET"],
+	"password":	["", "String", "_POST"],
+	"key":	["SSCRIPT>alert(1)</SCRIPT>", "String", "_GET"],
+	"action":	["process", "String", "_GET"],
+	"confirmation":	["", "String", "_POST"],
+	"formid":	["\\x00\\x00", "String", "_POST"]
+}
+{
+	"account":	["2", "String", "_GET"],
+	"password":	["", "String", "_POST"],
+	"key":	["<JCRIPT>alert(1)</SCRIPT>", "String", "_GET"],
+	"action":	["process", "String", "_GET"],
+	"confirmation":	["", "String", "_POST"],
+	"formid":	["\\x00\\x00", "String", "_POST"]
+}
+{
+	"account":	["2", "String", "_GET"],
+	"password":	["", "String", "_POST"],
+	"key":	["<QCRIPT>alert(1)</SCRIPT>", "String", "_GET"],
+	"action":	["process", "String", "_GET"],
+	"confirmation":	["", "String", "_POST"],
+	"formid":	["\\x00\\x00", "String", "_POST"]
+}

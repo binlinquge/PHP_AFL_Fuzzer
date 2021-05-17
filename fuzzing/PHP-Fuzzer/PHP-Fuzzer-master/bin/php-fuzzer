@@ -1,0 +1,16 @@
+<?php declare(strict_types=1);
+
+use PhpFuzzer\Fuzzer;
+
+error_reporting(E_ALL);
+
+foreach ([__DIR__ . '/../vendor/autoload.php', __DIR__ . '/../../../autoload.php'] as $file) {
+    if (file_exists($file)) {
+        require $file;
+        break;
+    }
+}
+
+$fuzzer = new Fuzzer();
+$fuzzer->handleCliArgs();
+?>

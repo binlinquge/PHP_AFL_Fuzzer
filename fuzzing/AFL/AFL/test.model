@@ -1,0 +1,177 @@
+sat
+(model 
+  (define-fun $_GET_account_0 () String
+    "\x08")
+  (define-fun $password_key_0 () String
+    "<SCRIPT>alert(1)</SCRIPT>")
+  (define-fun NAVBAR_TITLE_2_0 () String
+    "")
+  (define-fun $temp_385321_0 () String
+    "account=\x08&key=<SCRIPT>alert(1)</SCRIPT>")
+  (define-fun $temp_385267_0 () String
+    "SSL")
+  (define-fun $temp_385163_0 () String
+    "")
+  (define-fun HEADING_TITLE_0 () String
+    "")
+  (define-fun $temp_385267_1 () String
+    "SSL")
+  (define-fun $_POST_confirmation_0 () String
+    "")
+  (define-fun ENTRY_PASSWORD_NEW_ERROR_0 () String
+    "")
+  (define-fun $check_customer_password_reset_date_0 () String
+    "\x10")
+  (define-fun TEXT_NO_EMAIL_ADDRESS_FOUND_0 () String
+    "")
+  (define-fun $_POST_password_0 () String
+    "2")
+  (define-fun $_GET_key_0 () String
+    "")
+  (define-fun ENTRY_EMAIL_ADDRESS_MIN_LENGTH_0 () String
+    "4")
+  (define-fun NAVBAR_TITLE_1_0 () String
+    "")
+  (define-fun $temp_385259_1 () String
+    "SSL")
+  (define-fun $sessiontoken_0 () String
+    "\x00\x00")
+  (define-fun $temp_384938_0 () String
+    "password_forgotten")
+  (define-fun $temp_385316_0 () String
+    "account=\x08&key=<SCRIPT>alert(1)</SCRIPT>")
+  (define-fun $temp_385259_0 () String
+    "SSL")
+  (define-fun ENTRY_PASSWORD_MIN_LENGTH_0 () String
+    "4")
+  (define-fun $_GET_action_0 () String
+    "process")
+  (define-fun $temp_385109_0 () Bool
+    true)
+  (define-fun $temp_385114_0 () Bool
+    true)
+  (define-fun $temp_385196_0 () Bool
+    false)
+  (define-fun $temp_385146_0 () Bool
+    true)
+  (define-fun $temp_385095_0 () Bool
+    true)
+  (define-fun $temp_384910_0 () Bool
+    true)
+  (define-fun $temp_385012_1 () Bool
+    false)
+  (define-fun $temp_384900_0 () String
+    "")
+  (define-fun $check_customer_password_reset_key_0 () String
+    "")
+  (define-fun $temp_385012_0 () Bool
+    true)
+  (define-fun $temp_385026_0 () Bool
+    true)
+  (define-fun $temp_385037_0 () String
+    "")
+  (define-fun $temp_385027_0 () String
+    "\x10 +1 day")
+  (define-fun $temp_385031_0 () String
+    "\x10 +1 day")
+  (define-fun $temp_385013_0 () Bool
+    true)
+  (define-fun $temp_385019_0 () Bool
+    true)
+  (define-fun $temp_385014_0 () Bool
+    false)
+  (define-fun $temp_384921_0 () Bool
+    false)
+  (define-fun $temp_384922_0 () String
+    "\x08")
+  (define-fun $temp_384911_0 () Bool
+    true)
+  (define-fun $temp_384918_0 () String
+    "4")
+  (define-fun $temp_384912_0 () String
+    "\x08")
+  (define-fun $temp_385077_5 () Bool
+    true)
+  (define-fun $temp_385077_4 () Bool
+    true)
+  (define-fun $temp_385077_3 () Bool
+    true)
+  (define-fun $temp_385077_2 () Bool
+    true)
+  (define-fun $temp_384944_0 () String
+    "")
+  (define-fun $temp_385077_1 () Bool
+    true)
+  (define-fun $temp_385077_0 () Bool
+    true)
+  (define-fun $temp_385084_0 () String
+    "password_forgotten.php")
+  (define-fun $temp_385088_0 () String
+    "password_forgotten.php")
+  (define-fun $temp_385096_0 () Bool
+    true)
+  (define-fun $_POST_formid_0 () String
+    "\x00\x00")
+  (define-fun $temp_385097_0 () Bool
+    true)
+  (define-fun $temp_385103_0 () Bool
+    true)
+  (define-fun $temp_385098_0 () Bool
+    true)
+  (define-fun $password_confirmation_0 () String
+    "")
+  (define-fun $temp_385136_0 () String
+    "")
+  (define-fun $temp_385153_0 () String
+    "4")
+  (define-fun $temp_385147_0 () String
+    "2")
+  (define-fun $password_new_0 () String
+    "2")
+  (define-fun $temp_385125_0 () String
+    "2")
+  (define-fun $error_1 () Bool
+    true)
+  (define-fun $error_0 () Bool
+    true)
+  (define-fun $temp_385169_0 () String
+    "")
+  (define-fun $temp_385196_1 () Bool
+    false)
+  (define-fun $temp_385264_1 () String
+    "")
+  (define-fun $temp_385264_0 () String
+    "")
+  (define-fun $temp_385274_0 () String
+    "")
+  (define-fun $temp_385279_0 () String
+    "")
+  (define-fun $temp_385285_0 () String
+    "\n<h1 class=""display-4"">")
+  (define-fun $temp_385287_0 () String
+    "")
+  (define-fun $temp_385288_0 () String
+    "")
+  (define-fun $temp_385292_0 () String
+    "</h1>\n\n")
+  (define-fun $temp_385296_0 () Bool
+    false)
+  (define-fun $temp_385297_0 () String
+    "password_reset")
+  (define-fun $temp_385313_0 () String
+    "\n")
+  (define-fun $temp_385326_0 () String
+    "account=\x08&key=<SCRIPT>alert(1)</SCRIPT>")
+  (define-fun $temp_385327_0 () String
+    "account=\x08&key=<SCRIPT>alert(1)</SCRIPT>")
+  (define-fun $temp_385328_0 () String
+    "account=\x08&key=")
+  (define-fun $temp_385329_0 () String
+    "account=\x08")
+  (define-fun $temp_385331_0 () String
+    "\x08")
+  (define-fun $email_address_0 () String
+    "\x08")
+  (define-fun $temp_384889_0 () String
+    "\x08")
+)
